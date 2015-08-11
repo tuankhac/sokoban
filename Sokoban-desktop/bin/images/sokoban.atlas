@@ -1,0 +1,124 @@
+
+sokoban.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 440
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+easymode
+  rotate: false
+  xy: 1, 324
+  size: 480, 114
+  orig: 480, 114
+  offset: 0, 0
+  index: -1
+hardmode
+  rotate: false
+  xy: 1, 208
+  size: 480, 114
+  orig: 480, 114
+  offset: 0, 0
+  index: -1
+selectmode
+  rotate: false
+  xy: 1, 135
+  size: 514, 71
+  orig: 514, 71
+  offset: 0, 0
+  index: -1
+option
+  rotate: false
+  xy: 483, 390
+  size: 240, 48
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1, 87
+  size: 240, 46
+  orig: 240, 46
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 803, 870
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 483, 338
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+previous
+  rotate: false
+  xy: 1, 35
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+redo
+  rotate: false
+  xy: 803, 818
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+undo
+  rotate: false
+  xy: 855, 870
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+balloon
+  rotate: false
+  xy: 725, 406
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+box_change_color
+  rotate: false
+  xy: 243, 101
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 483, 304
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+player_change_color
+  rotate: false
+  xy: 535, 356
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+unit01
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+unit02
+  rotate: false
+  xy: 53, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

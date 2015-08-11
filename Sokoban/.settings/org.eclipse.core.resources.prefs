@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/tuankhac/sokoban/MainMenu.java=UTF-8
+encoding//src/com/tuankhac/sokoban/MainStage.java=UTF-8
+encoding//src/com/tuankhac/sokoban/asset/Box.java=UTF-8
+encoding//src/com/tuankhac/sokoban/asset/Gui.java=UTF-8
+encoding//src/com/tuankhac/sokoban/asset/Player.java=UTF-8
+encoding//src/com/tuankhac/sokoban/asset/Unit.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/controller/HandleButton.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/controller/WorldController.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/level/Level.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/object/Boxes.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/object/CShape.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/object/Player.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/object/Unit.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/render/WorldRenderer.java=UTF-8
+encoding//src/com/tuankhac/sokoban/game/utils/Constants.java=UTF-8
